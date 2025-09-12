@@ -15,3 +15,5 @@
 # vendor/
 
 .exercism/
+
+.DS_Store
